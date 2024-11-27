@@ -1,0 +1,27 @@
+/* src/components/UserTable.css */
+.user-form {
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .user-table th, .user-table td {
+    padding: 12px;
+  }
+  
+  .user-table th {
+    background-color: #1976d2;
+    color: white;
+  }
+  
+  .user-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .user-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  button {
+    margin: 0 8px;
+  }
+  
